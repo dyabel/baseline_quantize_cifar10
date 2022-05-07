@@ -1,0 +1,4 @@
+save_temp/
+cifar-10-batches-py/
+log.txt
+__pycache__/
